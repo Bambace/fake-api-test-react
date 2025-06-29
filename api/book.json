@@ -1,0 +1,16 @@
+
+  {
+    "id": 1,
+    "title": "Cien años de soledad",
+    "autore": {
+      "first_name": "Gabriel",
+      "last_name": "García Márquez"
+    },
+    "page_number": 417,
+    "images": {
+      "img_thum": "https://example.com/images/cien_anos_thumb.jpg",
+      "img_medium": "https://example.com/images/cien_anos_medium.jpg",
+      "img_large": "https://example.com/images/cien_anos_large.jpg"
+    },
+    "generes": ["Realismo mágico", "Literatura latinoamericana"]
+  }
